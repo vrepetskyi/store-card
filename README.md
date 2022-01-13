@@ -1,4 +1,4 @@
-# React + SASS Test Task
+# React + SASS Atomic Design Test Task
 
 Template: https://www.figma.com/file/NLnVdDJBtI2VpLXIDbYxxv/Test-task?node-id=0%3A1
 
