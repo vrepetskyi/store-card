@@ -5,7 +5,7 @@
     border-radius: 0.375rem;
     background-image: url('../../../../public/card.png');
     background-size: cover;
-    margin: 30px;
+    margin: 1.875rem;
 
     &::before {
         content: '';
@@ -79,24 +79,24 @@
 
 #price {
     position: absolute;
-    bottom: 42px;
-    left: -2px;
+    bottom: 2.625rem;
+    left: -0.125rem;
     color: white;
-    font-size: 12px;
+    font-size: 0.75rem;
     font-weight: 700;
     background: rgba(255, 255, 255, 0.09);
-    border-radius: 7.13542px;
-    padding: 5px 13px 5px 10px;
-    line-height: 15px;
+    border-radius: 0.446rem;
+    padding: 0.313rem 0.813rem 0.313rem 0.625rem;
+    line-height: 0.938rem;
 }
 
 #name {
-    font-size: 15px;
+    font-size: 0.938rem;
     color: white;
     position: absolute;
-    bottom: 14px;
-    left: 10px;
-    line-height: 20px;
+    bottom: 0.875rem;
+    left: 0.625rem;
+    line-height: 1.25rem;
 }
 
 #selects {
@@ -109,6 +109,6 @@
     opacity: 0;
 
     >div {
-        margin: 5.5px 0;
+        margin: 0.344rem 0;
     }
 }
