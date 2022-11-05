@@ -1,4 +1,4 @@
-# [***store-card***](https://store-card.herokuapp.com/) is a React + SASS Atomic Design test task
+# ***store-card*** is a React + SASS Atomic Design test task
 
 It is created by the [design](https://www.figma.com/file/NLnVdDJBtI2VpLXIDbYxxv/Test-task?node-id=0%3A1).
 
